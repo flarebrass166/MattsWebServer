@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4465733b-8593-4255-bb88-4af28aff55c9" name="MattsWebServer" url="http://52.89.245.19">
+        <fileTransfer host="52.89.245.19" port="22" privateKey="C:\Users\Flarebrass\Desktop\MattsWebServer.pem" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
